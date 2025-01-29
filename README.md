@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Generative AI and Climate Change: The Dual Threat to Racial Equity] (https://hadiyah.me/2024/10/09/generative-ai-and-climate-change-the-dual-threat-to-racial-equity/);
+
+This article highlights how Generative AI and Climate, two of the fastest-growing industries in the U.S. today may disproportionately negatively affect Black communities, if existing disparities are not addressed. Currently, Black individuals are underrepresented in AI and tech, fields which are forecasted to dominate. In contrast, Black individuals are overrepresented in jobs more easily threatened by automation, such as admin, retail, and service. Additionally, AI is often trained on biased data, which can perpetuate and worsen racial inequity. Additionally, though many Black neighborhoods, especially those with a history of redlining, are susceptible to environmental disasters, investments in climate solutions have rarely made their way.
