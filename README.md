@@ -8,3 +8,6 @@ This article highlights how Generative AI and Climate, two of the fastest-growin
 This article highlights the complexities of AI and Climate change and I found it super interesting
 
 **- Ariya Mathrawala**
+
+## Comment on This Article--Bill Feng
+This article explores how generative AI and climate change, two seemingly different challenges, converge to exacerbate inequalities, particularly affecting marginalized communities. 
